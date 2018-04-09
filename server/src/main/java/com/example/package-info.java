@@ -1,5 +1,3 @@
-package com.example;
-
 /**
  * Domain classes used to produce .....
  * <p>
@@ -10,3 +8,6 @@ package com.example;
  * @author somebody
  * @version 1.0
  */
+
+package com.example;
+
